@@ -1,0 +1,134 @@
+{
+  "OSTATNIA_MODYFIKACJA_REJESTRU": "2020-10-03 01:06:23",
+  "data": [
+    [
+      {
+        "val": "10015/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Klub Malucha Lazurowy Obłoczek",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚLĄSKIE > Powiat Katowice > Katowice > Katowice<br />ul. Ignacego Mościckiego 6",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "meg-ewa@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "692880409",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "22",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "22",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "500.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "9.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "SZKOŁA RODZENIA TERCET",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6341583709",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "276610776",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "9930/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10015Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ]
+  ],
+  "has_more": true
+}

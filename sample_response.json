@@ -1,0 +1,6761 @@
+{
+  "OSTATNIA_MODYFIKACJA_REJESTRU": "2020-10-03 01:06:23",
+  "data": [
+    [
+      {
+        "val": "10015/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Klub Malucha Lazurowy Obłoczek",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚLĄSKIE > Powiat Katowice > Katowice > Katowice<br />ul. Ignacego Mościckiego 6",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "meg-ewa@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "692880409",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "22",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "22",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "500.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "9.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "SZKOŁA RODZENIA TERCET",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6341583709",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "276610776",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "9930/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10015Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10016/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek Integracyjny \" Wesołe Krasnoludki\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAŁOPOLSKIE > Powiat limanowski > Łukowica > wieś Przyszowa<br />wieś Przyszowa 480",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.skrzatek.eu",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "boguslawadar@interia.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "602280814",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "42",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "0",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "250.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "5.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "5.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - dziecko niepełnosprawne - opłata do uzgodnienia z rodzicem/opiekunem"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Re Bud Firma Usługowa Bogusława Darowska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "7371420378",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "120092696",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "7097/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "http://skrzatek.eu/",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10016Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10017/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "NURSING CARE MAGDALENA HARWAS",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat pilski > Piła > Piła<br />ul. Podchorążych 18 lok. A",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "WWW.NURSINGCARE.PL",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "MAGDALENA_HARWAS@WP.PL",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "608163976",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "25",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "25",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "550.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "150.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "15.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "20.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota 6:30-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Magdalena Harwas",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "7642533948",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "302622541",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "1237/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10017Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10018/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Zespół Klubów Dziecięcych \"Bajkowa Przystań\" - Klub Dziecięcy \"Bajkowa Przystań 1\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "LUBUSKIE > Powiat gorzowski > Deszczno > Maszewo<br />ul. Kręta 1A",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "https://przedszkolewdeszcznie.edupage.org/",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "dyrektor.klubmalucha@deszczno.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "95 728 76 72",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "24",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "24",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "189.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "7.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Gmina Deszczno",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Lubuska 90",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "66-446 Deszczno",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "5992774930",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "210966935",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11242/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.deszczno.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10018Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10036/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek \"MALUSZKOWO\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "PODKARPACKIE > Powiat dębicki > Dębica > Dębica<br />ul. Paderewskiego 2",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.maluszkowo.com.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "biuro@maluszkowo.com.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "533 324 705",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "60",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "39",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "650.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "8.9 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "13.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "W2 Spółka z ograniczoną odpowiedzialnością Spółka Komandytowa",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": " 372",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "36-052 Nienadówka",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "5170362578",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "180967337",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "9932/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10036Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10038/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Chmurka",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat leszczyński > Rydzyna > Dąbcze<br />ul. Władysława Zamoyskiego 1",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "domoweprzedszkole2017@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "603 812 652",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "24",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "550.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "7.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Kamil Kałmuczak",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6971339282",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "411014337",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "9935/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      }
+    ],
+    [
+      {
+        "val": "10039/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek \"Kwiatuszki\" w Siemianicach",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "POMORSKIE > Powiat słupski > Słupsk > Siemianice<br />ul. Spacerowa 2",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "przedszkolekolorowe@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "603111574",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "20",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "20",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "480.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "160.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Niepubliczny Żłobek \"Kwiatuszki\"/Małgorzata Jażdzewska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Spacerowa 2",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "76-200 Słupsk, Siemianice",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "8431534383",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "221936354",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "7183/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10039Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10042/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Klub Dziecięcy \"Piaskowy Smok\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat nowodworski > Nowy Dwór Mazowiecki > Nowy Dwór Mazowiecki<br />ul. Sukienna 19",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "piaskowysmok@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "534-707-608",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "22",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "14",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "750.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "13.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Julia Sochacka",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "7772750199",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "146461127",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11246/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10042Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10043/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Akademia Rozwoju Dziecka \"Bajkowy Dworek\" ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "LUBUSKIE > Powiat żarski > Lubsko > Białków<br />Białków 22",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "https://www.facebook.com/bajkowydworek.k.zarnowska/",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "facebook@bajkowydworek.k.zarnowska",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": " 695 040 631",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "800.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "130.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Katarzyna Żarnowska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6991677929",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "367099184",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11267/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10043Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10044/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek Smyki w Alwerni",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAŁOPOLSKIE > Powiat chrzanowski > Alwernia > Alwernia, miasto<br />ul. Marii Skłodowskiej-Curie 3E",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.smyki-zlobek.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek.smyki.alwernia@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "510694781",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "24",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "900.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "13.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Niepubliczny Żłobek Smyki Monika Bakalarz",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6282077004",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "362369408",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11434/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.smyki-zlobek.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10044Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10045/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Tęczowa Kraina",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat Kalisz > Kalisz > Kalisz<br />park Miejski 1",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "te.ma.kalisz@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "605215931",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "27",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "340.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "160.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:00-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Tęczowe Marzenie Sp.zo.o.",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Braci Niemojowskich 31 M",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "62-800 KALISZ, Kalisz, miasto",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "6182160071",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "367279727",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11270/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10045Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10046/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny żłobek \"Akademia uśmiechu\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat ostrowski > Odolanów > Gliśnica<br />ul. Odolanowska 25",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "budan@vp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "535036212",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "45",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "45",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "350.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "150.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Usługi Ogólnobudowlane \"BUDAN\" Akademia Uśmiechu Andrzej Kwaśniewski",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "9161278260",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "021429557",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "7064/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10046Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10066/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Rainbow",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat Kalisz > Kalisz > Kalisz<br />ul. Jana Długosza 15",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "maciej_jakubek@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "509442333",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "43",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "41",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "260.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "240.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Maciej Jakubek EKOMA",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6181847570",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "301965747",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11273/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10066Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10067/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Klub Dziecięcy \"Akademia uśmiechu\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat ostrowski > Odolanów > Gliśnica, wieś<br />ul.  Odolanowska 25",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "budan@vp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "535036212",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "10",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "10",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "0.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata godzinowa - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "150.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "20.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 13:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Usługi Ogólnobudowlane \"BUDAN\" Akademia Uśmiechu Andrzej Kwaśniewski",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "9161278260",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "021429557",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "7064/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10067Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10089/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Artystyczny - \"Bose Stópki\" S.C. Aneta Abram Justyna Klityńska",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat Warszawa > Warszawa - Wola > Wola<br />ul. Jana Olbrachta 26 lok. 1",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "bosestopki.warszawa@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "698715748",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1600.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "15.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:00-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "BOSE STÓPKI\" - ŻŁOBEK ARTYSTYCZNY SPÓŁKA CYWILNA ANETA ABRAM, JUSTYNA KLITYŃSKA",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Jana Olbrachta 26 lok. 1",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "01-111 Warszawa, Wola",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "5272812341",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "367603004",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11316/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10089Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10091/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek \"Tygrysek\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat Konin > Konin > Konin<br />ul. Akacjowa 5",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.wiosnawsercu.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "wiosnawsercu@gmil.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "510-520-886, 697-35-15-00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "750.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "6.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota 07:00-16:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Fundacja \"Wiosna w Sercu\"",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul.  Akacjowa 5",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "62-510 Konin, Konin, miasto",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "6652880131",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "300907742",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "157/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.wiosnawsercu.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10091Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10110/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Re-Re-Kum-Kum",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚWIĘTOKRZYSKIE > Powiat starachowicki > Starachowice > Starachowice<br />ul. Stanisława Staszica 25",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.re-re-kum-kum.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "re-re-kum-kum@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "510094775",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "78",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "77",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "599.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "10.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "90.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Dziecko niepełnosprawne lub wymagające szczególnej opieki"
+      },
+      {
+        "val": "20.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "90.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Zniżka 599zł dofinansowanie z EFS oraz 135zł z Programu Maluch Plus"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Klub Malucha Re-Re-Kum-Kum s.c.",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Stanisława Staszica 25",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "27-200 Starachowice, Starachowice, miasto",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "6642135087",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "365445096",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "2087/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.re-re-kum-kum.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10110Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10112/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Kochane Urwisy",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat grójecki > Grójec > Marianów<br />Marianów 19M",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.kochaneurwisy.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "kochaneurwisy@op.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "607866401",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "900.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "200.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 07:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Łukasz Błaszczykowski",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "7971540406",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "146296421",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "750/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.kochaneurwisy.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10112Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10114/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Miejski nr 2 ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "DOLNOŚLĄSKIE > Powiat świdnicki > Świdnica > Świdnica<br />ul. Galla Anonima 5",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "http://www.zlobek2.nazwa.pl/",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek_nr2@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "74 637 90 82",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "100",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "100",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "260.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "8.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "50.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:00-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Gmina Miasto Świdnica",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Armii Krajowej 49",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "58-100 Świdnica",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "8840024797",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "890718314",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "7063/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.um.swidnica.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10114Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10115/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Gminny w Głuszycy",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "DOLNOŚLĄSKIE > Powiat wałbrzyski > Głuszyca > Głuszyca<br />ul. Grunwaldzka 37",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.zlobekgluszyca.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek@gluszyca.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "605616005",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "45",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "45",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "180.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "18.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "13.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 05:00-16:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Gmina Głuszyca",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Grunwaldzka 55",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "58-340 Głuszyca",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "8862572750",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "890718248",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "7248/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      }
+    ],
+    [
+      {
+        "val": "10133/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "\"BRZDĄCE NA ŁĄCE\" KLUB MALUCHA I OPIEKA DZIENNA EWELINA BEDNARKIEWICZ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat kolski > Grzegorzew > Grzegorzew<br />ul. Łąkowa 19",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "e.bednarkiewicz90@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "663320431",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "13",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "750.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "20.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "9.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 07:00-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "\"BRZDĄCE NA ŁĄCE\" KLUB MALUCHA I OPIEKA DZIENNA EWELINA BEDNARKIEWICZ",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6662089539",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "367289200",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11406/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "brzdace-grzegorzew.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10133Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10135/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek \"Bożego Miłosierdzia\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚLĄSKIE > Powiat Zabrze > Zabrze > Zabrze<br />ul. Pawła Majnusza 7",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.dom-rodzina.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "biuro@dom-rodzina.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "575-241-606",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "120",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "35",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "650.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "50.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "6.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "50.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzina na 5+ obniżenie wyżywienia o 50 % na okres 10 m-cy, opłata wpisowa 3 równe raty co miesiąc"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Caritas Diecezji Gliwickiej",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "Księcia Ziemowita 2",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "44-100 Gliwice",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "6311008107",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "040022246",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "633/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.caritasgliwice.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10135Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10137/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Kinderlandia Oddział II",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat poznański > Swarzędz > Swarzędz, miasto<br />os.  Dąbrowszczaków 25 lok. 44",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.kinderlandia-poznan.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "kinderlandiapoznan@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "502896910",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "42",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "26",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "900.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "200.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "50.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Dofinansowanie z Urzędu Gminy Swarzędz"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota 06:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Kinderlandia Weronika Kolan",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "7773143662",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "361078904",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "3426/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.kinderlandia-poznan.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10137Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10154/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Klub Dziecięcy \"Baby Academy\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat Warszawa > Warszawa - Ursus > Warszawa - Ursus, dzielnica m. st. Warszawy<br />ul.  Traktorzystów 20",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.babyacademy.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "ursus@babyacademy.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "791666206",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "27",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "20",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1600.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "14.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 07:00-18:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Project Consulting Olga Odziemczyk",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "5291635791",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "141197832",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "1265/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10154Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10155/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek Super Bobas",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "PODLASKIE > Powiat Białystok > Białystok > Białystok<br />ul. Gajowa 79",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.wesoledinusie.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "kontakt@wesoledinusie.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "600140533",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "60",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "48",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "840.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "7.5 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Lucky Star Ewa Bałtyk",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "9661654855",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "200272057",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "2263/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.wesoledinusie.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10155Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10156/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek \" Bajkowy Dom\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat legionowski > Jabłonna > Jabłonna<br />ul. Modlińska 112",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "sekretariatbajkowydom@op.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "601055802",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "20",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1000.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłaty za wyżywienie"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "5.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Ewa Cross",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "5242129792",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "012897707",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "1999/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10156Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10176/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Niepubliczny \"A Be Ce Strumyk Wiedzy\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat wolsztyński > Siedlec > Siedlec<br />ul. Szkolna 2",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "http://abcstrumykwiedzy.pl/",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "sekretariat@abcstrumykwiedzy.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "607 397 165 lub 601 652 051",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "40",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "26",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "0.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "7.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:30-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Żłobek Niepubliczny \"A Be Ce Strumyk Wiedzy\" ",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "9231266197",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "301514252",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11436/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "http://abcstrumykwiedzy.pl/",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10176Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10178/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Gminny w Kłobucku",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚLĄSKIE > Powiat kłobucki > Kłobuck > Kłobuck<br />ul. Krzysztofa Kamila Baczyńskiego 2",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek@gminaklobuck.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "343131155",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "300.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "20.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "12.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Gmina Kłobuck",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "UL. 11 LISTOPADA 6",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "42-100 KŁOBUCK",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "5742055306",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "151398273",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11481/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.gminaklobuck.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10178Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10179/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek ,,Cudaki-Słodziaki\u201d",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat Warszawa > Warszawa - Ursynów > Warszawa - Ursynów, dzielnica m. st. Warszawy<br />ul.  Na Uboczu 28B lok.  UB6 ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "mradlinska@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "509 613 307 ",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1400.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "15.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "RADLAKE Małgorzata Radlińska-Futyma",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "9222052657",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "146538730",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "2159/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "http://cudaki-slodziaki.pl/",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10179Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10180/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      { "val": "ŻŁOBEK", "isVisible": true, "isHref": false, "label": "Nazwa" },
+      {
+        "val": "ŚLĄSKIE > Powiat Tychy > Tychy > Tychy, miasto<br />ul.  Armii Krajowej 101 lok. D",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zuzanna_kowalczyk@poczta.fm",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "732570757",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "25",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "400.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "32.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "9.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "ZUZANNA JASIŃSKA",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6462896092",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "243140081",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11487/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10180Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10198/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek nr 61",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat Warszawa > Warszawa - Praga-Południe > Warszawa - Praga-Południe, dzielnica m. st. Warszawy<br />ul. Jana Nowaka-Jeziorańskiego 1A",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.zlobki.waw.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek61@zlobki.waw.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "789494995",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "150",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "139",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłaty za pobyt"
+      },
+      {
+        "val": "11.2 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:00-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "ZESPÓŁ ŻŁOBKÓW M. ST. WARSZAWY",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul.  Belgijska 4",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "02-511 Warszawa - Mokotów, Warszawa - Mokotów, dzielnica m. st. Warszawy",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "5213598403",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "142864986",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "1301/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.zlobki.waw.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10198Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10199/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Klub Malucha Sowia 5",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚLĄSKIE > Powiat Siemianowice Śląskie > Siemianowice Śląskie > Siemianowice Śląskie<br />ul. Sowia 5",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.przedszkole.sowia5.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "klubmalucha.sowia5@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "516577299",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "13",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "800.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "12.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Dziecko niepełnosprawne lub wymagające szczególnej opieki"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - dzieci z orzeczeniem o wczesnym wspomaganiu rozwoju"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 07:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Sowia 5 Beata Mazur-Michałowska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6431084766",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "241704421",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11477/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.przedszkole.sowia5.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10199Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10220/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek \"Stonoga\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAŁOPOLSKIE > Powiat olkuski > Olkusz > Olkusz<br />ul. Legionów Polskich 14 lok. 1",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "stonoga.olkusz@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "509899388",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "33",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "24",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "400.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "250.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Prywatny Żłobek Puchatkowa Kraina Aleksandra Świerczek",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6372193866",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "123156882",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "2601/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "puchatkowa.olkusz@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10220Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10223/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Klub dziecięcy</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Klub dziecięcy \"Kwiatkowo\" Anna Kwiatkowska",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ZACHODNIOPOMORSKIE > Powiat kamieński > Kamień Pomorski > Kamień Pomorski<br />ul. Karola Szymanowskiego 12",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "kwiatkowska.anna58@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "502305664",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "7",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "7",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "800.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłaty za wyżywienie"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:30-16:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Klub dziecięcy \"Kwiatkowo\" Anna Kwiatkowska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Karola Szymanowskiego 12",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "72-400 Kamień Pomorski",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "8571093105",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "366682102",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11497/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10223Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10241/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Niepubliczny Elemelek",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat nowodworski > Leoncin > Leoncin<br />ul. Podleśna 33",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "elemelek@przedszkole-elemelek.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "600247156",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "20",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "16",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "600.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "200.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Przedszkole Niepubliczne Przedszkole Elemelek Barbara Kręźlewicz-Prarat",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "5311568952",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "362429406",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11492/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.przedszkole-elemelek.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10241Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10242/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Króla Zygmunta Ewelina Gromulska-Sulej",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat miński > Mińsk Mazowiecki > Mińsk Mazowiecki<br />ul. Warszawska 239",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "ewelina.gromulskasulej@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "506993708",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "25",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "25",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1000.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "12.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "40.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - 400 zł - dofinansowanie z Miasta Mińsk Mazowiecki dla dzieci zamieszkałych w Mieście Mińsk "
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Żłobek Króla Zygmunta Ewelina Gromulska-Sulej",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "8222364155",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "368738284",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11502/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10242Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10243/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "PRZYGODY W OBŁOKACH",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "DOLNOŚLĄSKIE > Powiat Wrocław > Wrocław-Psie Pole > Wrocław-Psie Pole, delegatura<br />ul.  Gorlicka 62 lok. 4U",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "ivonadabrowska@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "695780077",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "15",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "370.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "13.5 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Bliźniaki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek 06:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "Piątek 06:30-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "PWO Iwona Dąbrowska,Marzena Chrzanowska s.c.",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Centralna 37 lok. 1",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "52-114 Wrocław, Wrocław-Krzyki",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "8992804087",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "366001591",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "1943/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10243Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10244/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Małe Poziomki Domek na Skraju ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "DOLNOŚLĄSKIE > Powiat głogowski > Głogów > Głogów<br />ul. Narciarska 1,3",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.przedszkole-poziomka.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "ewaczainska@o2.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "609508305",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "42",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "42",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "450.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "10.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Przedszkole Niepubliczne Poziomka Ewa Czaińska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6931240896",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "021994642",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11511/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10244Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10245/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek \"SZCZĘŚLIWA KRAINA\" ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "DOLNOŚLĄSKIE > Powiat dzierżoniowski > Łagiewniki > Łagiewniki<br />ul. Sportowa 9",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "brak",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "szczesliwakrainalagiewniki@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "667133481",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "23",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "21",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "450.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "7.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 07:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Żłobek \"SZCZĘŚLIWA KRAINA\" Jadwiga Kukiełka",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "9141360107",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "367894160",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11516/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10245Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10264/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Niepubliczny \"Lechitki\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat poznański > Suchy Las > Suchy Las<br />ul. Powstańców Wielkopolskich 89",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.lechitki.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek@lechitki.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "667232373",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "52",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "35",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1200.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "25.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "11.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Eduro Anna Świderska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "9581308186",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "300929117",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11509/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.lechitki.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10264Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10265/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek \"Leśny Domek\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "PODKARPACKIE > Powiat leżajski > Leżajsk > Brzóza Królewska<br />Brzóza Królewska 484",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.zlobek.gminalezajsk.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek@gminalezajsk.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "570 668 661",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "29",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1.8 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata godzinowa - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "10.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "100.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Dochód rodzinny"
+      },
+      {
+        "val": "6.00 - 18.00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia - uwagi"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Gmina Leżajsk",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Łukasza Opalińskiego 2",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "37-300 Leżajsk",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "8161593943",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "690581732",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11510/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.gminalezajsk.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10265Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10268/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek KARUZELA Magdalena Siejek",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat kościański > Czempiń > Czempiń, miasto<br />pl.  Zielony Rynek 18",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.przedszkolekaruzela.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "biuro@przedszkolekaruzela.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "508908625",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "8",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "900.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "30.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "200.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "30.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "22.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Dzieci z Gminy Czempiń 200zł zniżki."
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota 06:30-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Niepubliczny Żłobek \"KARUZELA\"",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "6981780991",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "367897968",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11539/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "przedszkolekaruzela.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10268Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10288/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek \"Maluchowo\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚWIĘTOKRZYSKIE > Powiat Kielce > Kielce > Kielce<br />ul. Sandomierska 161",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.zlobek-kielce.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "maluchowo@interia.eu",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "696582072",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "18",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "9",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "700.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "20.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "11.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "10.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "0.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:00-18:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "\"KREATYWNE MALUCHOWO\" Ewelina Bednarz",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "8661632468",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "260248603",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "2663/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.zlobek-kielce.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10288Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10289/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek \"Malinka\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "WIELKOPOLSKIE > Powiat kościański > Czempiń > Czempiń<br />ul. Stanisława Kuczmerowicza 3",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.malinka-czempin.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "projekt.czempin@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "696 357 884",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "21",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "18",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "403.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "147.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - miesięczna"
+      },
+      {
+        "val": "15.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Krystyna Smektała",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "7821589776",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "300365815",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11561/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.malinka-czempin.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10289Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10291/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek \"Żabka\" w Przysieczy",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "OPOLSKIE > Powiat opolski > Prószków > Przysiecz<br />ul. Szkolna 14",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zabkazp@wp.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "608499728",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "20",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "9",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "400.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "10.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "8.5 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 07:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Barbara Wlaźlik",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "8321041142",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "441/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10291Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10292/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek KUM-KUM-2",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat Warszawa > Warszawa - Wola > Wola<br />ul. Radziwie 7 lok. U7",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zlobek@kum-kum.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "881 000 080",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1925.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "15.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 07:30-17:30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "ARS EDUCANDI \u2013 SZTUKA WYCHOWANIA spółka z o.o.",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul. Jana Ostroroga 29 lok. 68",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "01-163 Warszawa, Wola",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "5272758133",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "363639382",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "2951/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.kum-kum.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10292Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10296/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "ŻOBEK \"ZACZAROWANA KRAINA\"",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat Radom > Radom > Radom<br />ul. Marii Fołtyn 2",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.zaczarowanakraina.radom.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "zaczarowanakraina.radom@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "690855590",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "90",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "43",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "577.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "25.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "13.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "2.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Wielodzietność/Karta Dużej Rodziny"
+      },
+      {
+        "val": "2.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Samotne wychowanie dziecka"
+      },
+      {
+        "val": "2.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - Rodzeństwo uczęszczające do instytucji"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 7:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "NOVIS SP. Z O. O.",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "UL. ANDRZEJA STRUGA 60 lok. ACM",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "26-600 RADOM",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "7961100806",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "670754467",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11564/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10296Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10311/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "GWIAZDOLANDIA ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚLĄSKIE > Powiat Gliwice > Gliwice > Gliwice<br />ul. Jagiellońska 39",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.gwiazdolandia.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "gwiazdolandia@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "509983750",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "40",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "40",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "550.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłaty za wyżywienie"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "GWIAZDOLANDIA Branicki sp. j.",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "ul.  Bernardyńska 46",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - adres"
+      },
+      {
+        "val": "44-100 Gliwice, Gliwice, miasto",
+        "isVisible": false,
+        "isHref": false,
+        "label": ""
+      },
+      {
+        "val": "6312653146",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "243544499",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "2198/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.gwiazdolandia.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10311Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10313/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Niepubliczny Żłobek \"Gryfne Bajtle\" ",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "ŚLĄSKIE > Powiat Siemianowice Śląskie > Siemianowice Śląskie > Siemianowice Śląskie<br />ul. 1 Maja 12",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "gryfne-bajtle.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "gryfnebajtle.slaskie@gmail.com",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "791856308",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "80",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "48",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "850.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "11.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "50.0%",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżka - W przypadku rodzeństwa obniżona opłata wpisowa"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek 06:00-17:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "NIE",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "Katarzyna Rej",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "7151930456",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "368894127",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11575/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "gryfne-bajtle.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10313Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ],
+    [
+      {
+        "val": "10329/Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Numer pozycji rejestru"
+      },
+      {
+        "val": "<span>Żłobek</span>",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Typ instytucji"
+      },
+      {
+        "val": "Żłobek Niepubliczny Cypiskowo.pl 2",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Nazwa"
+      },
+      {
+        "val": "MAZOWIECKIE > Powiat piaseczyński > Lesznowola > Lesznowola<br />ul. Żubra 4",
+        "isVisible": true,
+        "isHref": false,
+        "label": "Lokalizacja instytucji"
+      },
+      {
+        "val": "www.cypiskowo.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW żłobka/klubu"
+      },
+      {
+        "val": "cypiskowo@cypiskowo.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "E-mail żłobka/klubu"
+      },
+      {
+        "val": "602593463",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Telefon żłobka/klubu"
+      },
+      {
+        "val": "55",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba miejsc"
+      },
+      {
+        "val": "30",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Liczba dzieci zapisanych"
+      },
+      {
+        "val": "1250.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata miesięczna - podstawowa opłata ponoszona przez rodziców za pobyt dziecka (bez zniżek i bez wyżywienia)"
+      },
+      {
+        "val": "50.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "stawka za pobyt dziecka przekraczający 10 godzin dziennie - opłata godzinowa"
+      },
+      {
+        "val": "13.0 zł",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Opłata za wyżywienie - dzienna"
+      },
+      {
+        "val": "Brak danych",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Zniżki"
+      },
+      {
+        "val": "Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota 7:00-18:00",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Godziny otwarcia"
+      },
+      {
+        "val": "TAK",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?"
+      },
+      {
+        "val": "\"Cypiskowo.pl\" Katarzyna Brogowska",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - nazwa"
+      },
+      {
+        "val": "8842166277",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - NIP"
+      },
+      {
+        "val": "",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - REGON"
+      },
+      {
+        "val": "11593/P",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Podmiot prowadzący - numer pozycji rejestru"
+      },
+      {
+        "val": "www.cypiskowo.pl",
+        "isVisible": false,
+        "isHref": true,
+        "label": "Adres WWW podmiotu prowadzącego żłobek/klub"
+      },
+      {
+        "val": "<span> NIE </span>",
+        "isVisible": false,
+        "isHref": false,
+        "label": "Czy podmiot prowadzący zawiesił działalność gospodarczą?"
+      },
+      {
+        "val": "/mapa/?id=10329Z",
+        "isVisible": true,
+        "isHref": false,
+        "label": "MAP_URL"
+      }
+    ]
+  ],
+  "has_more": true
+}
